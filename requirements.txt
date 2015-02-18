@@ -1,0 +1,6 @@
+pyasn1==0.1.7
+pycrypto==2.6.1
+pysnmp==4.2.5
+pymssql==2.1.0
+iptools==0.6.1
+configparser==3.3
