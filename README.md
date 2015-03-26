@@ -1,5 +1,7 @@
 # NAPI - Cisco Network API #
 
+## WARNING THIS IS A WORK IN PROGRESS. DO NOT ATTEMPT IN YOUR NETWORK AS CODE WILL NOT COMPILE ##
+
 ### Overview ###
 
 Generic API for binding over cisco networking devices.
